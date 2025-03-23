@@ -1,4 +1,4 @@
-# 📘 Highly Available (HA) Web Server on GCP – Terraform Project
+# 📘 Highly Available (HA) Web Server on GCP Project
 
 This project deploys a **highly available, auto-scaling web server** architecture on **Google Cloud Platform (GCP)** using **Terraform**, complete with a **global HTTP load balancer**, health checks, and managed instance group autoscaling.
 
